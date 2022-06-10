@@ -16,8 +16,11 @@ The full type chart here displays the strengths and weaknesses of each type. Loo
 _Chart key_
 
 0 -> No effect (0%)
+
 ½ -> Not very effective (50%)
-  -> Normal (100%)
+
+(blank white space) -> Normal (100%)
+ 
 2 -> Super-effective (200%)
 
 

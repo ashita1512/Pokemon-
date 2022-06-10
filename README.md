@@ -7,6 +7,20 @@ Here is a screenshot of my Pokemon project that displays different cards of all 
 
 ![image](https://user-images.githubusercontent.com/98086953/173074923-bdd71995-b9d5-4016-8e77-a9fb822128e0.png)
 
+TYPE CHART
+
+![image](https://user-images.githubusercontent.com/98086953/173126379-7abc0559-8f12-40e9-ba75-d8d8a149f3d6.png)
+
+The full type chart here displays the strengths and weaknesses of each type. Look down the left hand side for the attacking type, then move across to see how effective it is against each Pokémon type.
+
+_Chart key_
+
+0 -> No effect (0%)
+½ -> Not very effective (50%)
+  -> Normal (100%)
+2 -> Super-effective (200%)
+
+
 
 ## Available Scripts
 

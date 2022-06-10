@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Here is a screenshot of my Pokemon project that displays different cards of all types of Pokemons with their nature.
+
+![image](https://user-images.githubusercontent.com/98086953/173074923-bdd71995-b9d5-4016-8e77-a9fb822128e0.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
